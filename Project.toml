@@ -1,0 +1,5 @@
+[deps]
+Blink = "ad839575-38b3-5650-b840-f874b8c74a25"
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+GADM = "a8dd9ffe-31dc-4cf5-a379-ea69100a8233"
+Leaflet = "2ed2781b-9bfa-45ba-823d-d31db75b7d93"
